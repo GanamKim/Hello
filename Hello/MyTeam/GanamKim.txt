@@ -1,0 +1,4 @@
+name: GanamKim
+age: 24
+sex: female
+major: sociology & business administration
